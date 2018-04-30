@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PopularMovie2</string>
+    <string name="sortByRate">sortByRate</string>
+    <string name="sortByPopular">sortByPopular</string>
+</resources>
